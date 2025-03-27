@@ -147,3 +147,8 @@ Para acessar os resultados da execução clique em **Jobs** -> **Nome do job cri
 ![Captura de tela 2025-03-26 225322](https://github.com/user-attachments/assets/9ab94640-32d7-41fb-8104-f196e7bc1736)
 <p align="center">Detalhes do Evaluation results</p>  
 
+## 8. Previsões em tempo real
+- Para realizar o **Deploy** acesse o menu lateral **Jobs** -> **Nome do job criado na Etapa 6.1** -> **Models + child jobs** -> **VotingEnsemble** -> **Deploy** -> **Real-time endpoint**;
+- **Deploy**: selecione as configurações de instâncias do endpoint e realize o **Deploy**.
+![Captura de tela 2025-03-26 225827](https://github.com/user-attachments/assets/f42fd88a-f937-41c3-b961-037ecfae4347)
+<p align="center">Imagem com o Endpoint criado</p>  
